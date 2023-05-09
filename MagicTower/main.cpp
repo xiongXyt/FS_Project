@@ -8,6 +8,6 @@ int main() {
 	while (!::flag) {
 		game.GameRender();
 		game.GameUpdate();
-	}
+	} 
 	return 0;
 }
